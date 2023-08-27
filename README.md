@@ -1,2 +1,17 @@
 # BLOBandTEXTMySQL
 What is BLOB and TEXT in MySQL?
+
+
+There are four types of the BLOB.
+
+TINYBLOB
+BLOB
+MEDIUMBLOB
+LONGBLOB
+
+There are four types of TEXT.
+
+TINYTEXT
+TEXT
+MEDIUMTEXT
+LONGTEXT
